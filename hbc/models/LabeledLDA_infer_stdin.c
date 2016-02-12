@@ -40,6 +40,7 @@ Manually modified to handle inference using pre-computed topics (e.g. see Yao et
 #include <stdlib.h>
 #include <math.h>
 #include <string.h>
+#include <time.h>
 #include "stats.h"
 #include "labels.h"
 
